@@ -28,7 +28,7 @@ const Index = () => {
       className={cls(
         'overflow-auto scrollbar-hide bg-[#010422] flex flex-col px-4 py-7 h-screen w-[13%] fixed',
         hideSidebar === true
-          ? ' -translate-x-32 transform transition duration-700 ease-in-out'
+          ? ' -translate-x-[75%] transform transition duration-700 ease-in-out'
           : 'translate-x-0 transform transition duration-700 ease-in-out'
       )}
     >
