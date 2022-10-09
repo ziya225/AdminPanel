@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.opensans-200 {
+  font-family: 'Open Sans';
+  font-weight: 200;
+  line-height: 20px;
+}
+.opensans-300 {
+  font-family: 'Open Sans';
+  font-weight: 300;
+  line-height: 20px;
+}
+.opensans-400 {
+  font-family: 'Open Sans';
+  font-weight: 400;
+  line-height: 20px;
+}
+.opensans-500 {
+  font-family: 'Open Sans';
+  font-weight: 500;
+  line-height: 20px;
+}
+.opensans-600 {
+  font-family: 'Open Sans';
+  font-weight: 600;
+  line-height: 29px;
+}
+.opensans-700 {
+  font-family: 'Open Sans';
+  font-weight: 700;
+  line-height: 29px;
+}
+.opensans-800 {
+  font-family: 'Open Sans';
+  font-weight: 800;
+  line-height: 29px;
+}
+
+.mont-200 {
+  font-family: 'Montserrat';
+  font-weight: 200;
+}
+.mont-300 {
+  font-family: 'Montserrat';
+  font-weight: 300;
+}
+.mont-400 {
+  font-family: 'Montserrat';
+  font-weight: 400;
+}
+.mont-500 {
+  font-family: 'Montserrat';
+  font-weight: 500;
+}
+.mont-600 {
+  font-family: 'Montserrat';
+  font-weight: 600;
+}
+.mont-700 {
+  font-family: 'Montserrat';
+  font-weight: 700;
+}
+.mont-800 {
+  font-family: 'Montserrat';
+  font-weight: 800;
+}
