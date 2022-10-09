@@ -26,9 +26,9 @@ const Index = () => {
   return (
     <div
       className={cls(
-        'overflow-auto scrollbar-hide bg-[#010422] flex flex-col px-4 py-7 h-screen w-[13%] fixed',
+        'overflow-auto scrollbar-hide bg-[#010422] flex flex-col px-4 py-7 h-screen w-[43%] md:w-[13%] lg:w-[13%] xl:w-[13%] fixed',
         hideSidebar === true
-          ? ' -translate-x-[50%] md:-translate-x-[75%] lg:-translate-x-[75%] xl:-translate-x-[75%] transform transition duration-700 ease-in-out'
+          ? ' -translate-x-[75%] transform transition duration-700 ease-in-out'
           : 'translate-x-0 transform transition duration-700 ease-in-out'
       )}
     >

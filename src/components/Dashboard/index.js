@@ -12,7 +12,7 @@ const Index = () => {
         ' bg-[#f1f3f7]',
         sidebar === true
           ? 'pl-14  transition duration-700 ease-in-out'
-          : 'pl-48'
+          : 'pl-44 md:pl-48 lg:pl-48 xl:pl-48'
       )}
     >
       <div>
